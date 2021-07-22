@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankit Singh Rajput</h1>
 
 <p align="center"> 
-<img align="center" alt="Looney Tunes World of Mayhem" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
+<img align="center" alt="Coding page" src="https://media.giphy.com/media/qdf1QyvxipVh6/giphy.gif"/>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ankit-sr&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-sr" /> </p>
